@@ -1,5 +1,11 @@
 # @backstage/plugin-techdocs
 
+## 0.13.2-next.2
+
+### Patch Changes
+
+- 18317a08db: Fixed a bug where copy-to-clipboard buttons were appended to unintended elements.
+
 ## 0.13.2-next.1
 
 ### Patch Changes
