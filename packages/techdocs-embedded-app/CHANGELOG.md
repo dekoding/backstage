@@ -1,4 +1,4 @@
-# embedded-techdocs-app
+# techdocs-embedded-app
 
 ## 0.2.62-next.0
 
